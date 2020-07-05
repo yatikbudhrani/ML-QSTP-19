@@ -1,2 +1,2 @@
 # ML-QSTP-19
-These are the assignments which I did while learning ML.
+These are the solutions to assignments of the Machine Learning course of QSTP-19.
